@@ -17,7 +17,7 @@ Para a análise dos dados:
 0. Instale os requerimentos do projeto: `pip install -r requirements.txt`
 1. Rode o script `pegar_urls_resultados.sh`
 2. Rode o script `baixar_arquivos.sh`
+3. Rode o script `converter_arquivos.sh`
 
 TODOs: 
-- Conversão/preparo dos datasets para análise em pyspark
 - Notebooks para análise (trabalho em progresso)
