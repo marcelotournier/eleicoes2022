@@ -18,6 +18,6 @@ Para a análise dos dados:
 1. Rode o script `pegar_urls_resultados.sh`
 2. Rode o script `baixar_arquivos.sh`
 3. Rode o script `converter_arquivos.sh`
+4. Copie o notebook da pasta `./notebooks` para a pasta onde os arquivos se encontram, ou modifique a pasta de leitura
+5. Rode as consultas modificando o código SQL dentro da célula `spark.sql("select ...").show()`
 
-TODOs: 
-- Notebooks para análise (trabalho em progresso)
